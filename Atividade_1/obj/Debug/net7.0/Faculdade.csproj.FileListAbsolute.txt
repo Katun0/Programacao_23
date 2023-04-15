@@ -1,0 +1,5 @@
+C:\Users\kingh\OneDrive\Documentos\Unoesc\Prog3_23\faculdade\obj\Debug\net7.0\Faculdade.csproj.AssemblyReference.cache
+C:\Users\kingh\OneDrive\Documentos\Unoesc\Prog3_23\faculdade\obj\Debug\net7.0\Faculdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kingh\OneDrive\Documentos\Unoesc\Prog3_23\faculdade\obj\Debug\net7.0\Faculdade.AssemblyInfoInputs.cache
+C:\Users\kingh\OneDrive\Documentos\Unoesc\Prog3_23\faculdade\obj\Debug\net7.0\Faculdade.AssemblyInfo.cs
+C:\Users\kingh\OneDrive\Documentos\Unoesc\Prog3_23\faculdade\obj\Debug\net7.0\Faculdade.csproj.CoreCompileInputs.cache
